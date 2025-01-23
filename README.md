@@ -15,7 +15,6 @@ Blending education in psychology, computer programming, digital forensics, and d
 
 ### Tech Toolbox 🛠️
 - **Language:** Python
-- **Specialties:** LLMs, Generative AI
 
 ### Education 🎓
 - **University of Notre Dame**, Bachelor of Science, Neuroscience and Behavior (2026)
