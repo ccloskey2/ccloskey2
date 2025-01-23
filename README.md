@@ -23,4 +23,3 @@ Blending education in psychology, computer programming, digital forensics, and d
 ### Certifications 📜
 - **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
 
-🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
