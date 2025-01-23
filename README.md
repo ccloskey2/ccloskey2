@@ -6,7 +6,7 @@
 
 
 ### About Me 🌐
-Blending education in programming, cybersecurity, digital forensics, and data science to solve complex problems and make impactful solutions.
+Blending education in psychology, computer programming, digital forensics, and data science to solve complex problems and make impactful solutions.
 
 
 ### Professional Highlights 🌟
