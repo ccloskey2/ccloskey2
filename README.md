@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Catherine!
 
-<!--
-**ccloskey2/ccloskey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Notre Dame Student Studying Neuroscience and Behavior, Computing and Digital Technologies, and Data Science
 
-Here are some ideas to get you started:
+📍 **United States**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+Blending education in programming, cybersecurity, digital forensics, and data science to solve complex problems and make impactful solutions.
+
+
+### Professional Highlights 🌟
+- **Digital Forensic Investigator** - Notre Dame, Indiana (2024 - Present)
+
+
+### Tech Toolbox 🛠️
+- **Language:** Python
+- **Specialties:** LLMs, Generative AI
+
+### Education 🎓
+- **University of Notre Dame**, Bachelor of Science, Neuroscience and Behavior (2026)
+
+### Certifications 📜
+- **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
+
+🔗 Let's ideate, innovate, and build cool expericnes with AI. Reach out for collaborations or simply to chat!
