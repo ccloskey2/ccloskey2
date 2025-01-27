@@ -43,6 +43,6 @@ I am a student in my third year at the University of Notre Dame. I am currently 
   
 ### Contact Information:  
 - **Email**: ccloskey@nd.edu
-- **Linked In**: [*Catherine Closkey*](https://www.linkedin.com/in/catherine-closkey-a1863b2ab)
+- **Linked In**: [Catherine Closkey](https://www.linkedin.com/in/catherine-closkey-a1863b2ab)
 
 
