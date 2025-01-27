@@ -41,4 +41,6 @@ I am a student in my third year at the University of Notre Dame. I am currently 
 
 ### Certifications 📜
 - **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
+  ![Description of Image](https://images.squarespace-cdn.com/content/v1/593b3704be65945a2e71fac9/1523928626323-179DX7G8OBECCJ0TL0GX/MCFE_Magnet+Certified+Forensics+Examiner_Logo.png)
+
 
