@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Catherine!
 
-## 🚀 Notre Dame Student Studying Neuroscience and Behavior, Computing and Digital Technologies, and Data Science
+## 🚀 Student Studying Neuroscience and Behavior, Computing and Digital Technologies, and Data Science
 
 📍 **United States**  
 
