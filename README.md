@@ -33,6 +33,9 @@ I am a student in my third year at the University of Notre Dame. I am currently 
         - Research on ChatGPT
           
 ### Projects 🚀
+- **Introduction to Data Science**
+      - Data Science Portfolio: *https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio*
+  
 
 ### Certifications 📜
 - **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
