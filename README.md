@@ -13,7 +13,7 @@ I am a student in my third year at the University of Notre Dame. I am currently 
 
 ### Professional Highlights 🌟
 - **Digital Forensic Investigator** - Notre Dame, Indiana (2024 - Present)
- (https://news.nd.edu/assets/330693/500x/cyber_crimes_unit_mc_feature.jpg)
+! [Cyber Crimes Unit] (https://news.nd.edu/assets/330693/500x/cyber_crimes_unit_mc_feature.jpg)
 
 ### Tech Toolbox 🛠️
    - **Elements of Computing I** (Fall, 2023)
