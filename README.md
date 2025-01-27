@@ -38,12 +38,11 @@ I am a student in my third year at the University of Notre Dame. I am currently 
 - **Introduction to Data Science**
     - [*Data Science Portfolio*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio)
   
-
 ### Certifications 📜
 - **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
-  ![Description of Image](https://images.squarespace-cdn.com/content/v1/593b3704be65945a2e71fac9/1523928626323-179DX7G8OBECCJ0TL0GX/MCFE_Magnet+Certified+Forensics+Examiner_Logo.png)
-
+  
 ### Contact Information:  
-- **Email**: ccloskey@stjoepros.org
+- **Email**: ccloskey@nd.edu
+- **Linked In**: [*Catherine Closkey*](https://www.linkedin.com/in/catherine-closkey-a1863b2ab)
 
 
