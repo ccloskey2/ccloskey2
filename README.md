@@ -25,13 +25,13 @@ I am a student in my third year at the University of Notre Dame. I am currently 
         - GrayKey Software
    - **Elements of Computing II** (Spring, 2024)
         - Python Data Science Libraries: Pandas, Seaborn, Beautiful Soup, Plotly, Matplot lib
-   - **Cyber Crime and the Law** (Fall, 2024)
+   - **CyberCrime and the Law** (Fall, 2024)
         - Applications of the law to computing crimes and other cybercrimes as well as implications for digital forensics 
    - **Introduction to Data Science** (Spring, 2025)
         - Data science skills: Python libraries of Pandas, Seaborn, Plotly, Streamlit
         - Machine learning techniques: large language models, neural networks
         - Ethical practices
-   - **Special Projects in Cyber Crime and the Law** (Spring, 2025)
+   - **Special Projects in CyberCrime and CyberLaw** (Spring, 2025)
         - Research on Generative AI (ChatGPT)
           
 ### Projects 🚀
