@@ -15,7 +15,6 @@ I am a student in my third year at the University of Notre Dame. I am currently 
 - **Digital Forensic Investigator** - Notre Dame, Indiana (2024 - Present)
 
 ### Tech Toolbox 🛠️
-- **Courses:**
    - **Elements of Computing I** (Fall, 2023)
        - Introduction to Computing
        - Introduction to Coding Language: Python
