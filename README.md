@@ -6,18 +6,34 @@
 
 
 ### About Me 🌐
-Blending education in psychology, computer programming, digital forensics, and data science to solve complex problems and make impactful solutions.
+I am a student in my third year at the University of Notre Dame. I am currently studying Neuroscience and Behavior in the College of Science, where I will graduate with a Bachelor of Science in May 2026. I have a minor in Computing and Digital Technologies with a concentration on the Cybersafety and Security track. This year, I took on a Data Science class as I have learned through my computing coursework that data science is a fascinating field. Through my interest in the biology of brain, study of human behavior, I can apply this to the computing and data science world by analzying trends in health, society and politics, to predict trends, solve complex problems, and make impactful solutions. 
 
+### Education 🎓
+- **University of Notre Dame**, Bachelor of Science, Neuroscience and Behavior (2026)
 
 ### Professional Highlights 🌟
 - **Digital Forensic Investigator** - Notre Dame, Indiana (2024 - Present)
 
-
 ### Tech Toolbox 🛠️
-- **Language:** Python
-
-### Education 🎓
-- **University of Notre Dame**, Bachelor of Science, Neuroscience and Behavior (2026)
+- **Courses:**
+   - **Elements of Computing I** (Fall, 2023)
+       - Introduction to Computing
+       - Introduction to Coding Language: Python
+   - **Digital Forensic Analysis** (Fall, 2023)
+        - Magnet AXIOM Forensic Software
+        - GrayKey Software
+   - **Elements of Computing II** (Spring, 2024)
+        - Python Data Science Libraries: Pandas, Seaborn, Beautiful Soup, Plotly, Matplot lib
+   - **Cyber Crime and the Law** (Fall, 2024)
+        - Applications of the law to computing crimes and other cybercrimes as well as implications for digital forensics 
+   - **Introduction to Data Science** (Spring, 2025)
+        - Develop data science technical skills: Python libraries of Pandas, Seaborn, Plotly, Streamlit
+        - Machine learning techniques: neural networks, natural language processing
+        - Ethical practices
+   - **Special Projects in Cyber Crime and the Law** (Spring, 2025)
+        - Research on ChatGPT
+          
+### Projects 🚀
 
 ### Certifications 📜
 - **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
