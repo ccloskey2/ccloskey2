@@ -5,8 +5,8 @@
 📍 **United States**  
 
 
-### About Me 🌐
-I am a student in my third year at the University of Notre Dame. I am currently studying Neuroscience and Behavior in the College of Science, where I will graduate with a Bachelor of Science in May 2026. I have a minor in Computing and Digital Technologies with a concentration on the Cybersafety and Security track. This year, I am expanding my interests into the Data Science field  as I have learned through my computing coursework that data science is fascinating. Through my combined interests in the biology of the brain and study of human behavior, I can apply these interests to the computing and data science world by analzying trends in health, society, and politics in order to predict trends, solve complex problems, and make impactful solutions. 
+### Introduction 🌐
+My name is Catherine Closkey. I am a student in my third year at the University of Notre Dame. I am currently studying Neuroscience and Behavior in the College of Science, where I will graduate with a Bachelor of Science in May 2026. I have a minor in Computing and Digital Technologies with a concentration on the Cybersafety and Security track. This year, I am expanding my interests into the Data Science field  as I have learned through my computing coursework that data science is fascinating. Through my combined interests in the biology of the brain and study of human behavior, I can apply these interests to the computing and data science world by analzying trends in health, society, and politics in order to predict trends, solve complex problems, and make impactful solutions. 
 
 ### Education 🎓
 - **University of Notre Dame**, Bachelor of Science, Neuroscience and Behavior (2026)
