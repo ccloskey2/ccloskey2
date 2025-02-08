@@ -1,6 +1,6 @@
 # 🌺 Hello, I'm Catherine!
 
-## 𑁍 About Me 
+## About Me 𑁍 
 My name is Catherine Closkey. I am currently a student in my third year at the University of Notre Dame. 
 
 ### Education:
@@ -13,7 +13,7 @@ My name is Catherine Closkey. I am currently a student in my third year at the U
   
 ![Description of Image](https://news.nd.edu/assets/330693/500x/cyber_crimes_unit_mc_feature.jpg)
        
-## Current Projects
+## Current Projects 𑁍 
 - **Introduction to Data Science**
     - [Data Science Portfolio](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio)
       - This portfolio consists of the projects I will be working on this semester in Introduction to Data Science. These projects include:
@@ -21,18 +21,18 @@ My name is Catherine Closkey. I am currently a student in my third year at the U
         -  Applications of machine learning concepts such as model selection, feature engineering, hyperparameter tuning, and model evaluation to real-world data. 
         -  Advanced projects including applications of large language models and neural networks for analytics and decision-making. 
 
-## Skills
+## Skills 𑁍 
    - **Python**: Pandas, Seaborn, Beautiful Soup, Plotly, Matplot lib (*basic level*)
    - **Magnet AXIOM Forensic Software**: *Magnet Certified Forensic Examiner (2023)*
    - **GrayKey Software**
 
-## Goals
+## Goals 𑁍 
 - By the end of this semester, my goals are to:
   - Develop my technical skills with regard to making interactive visualizations through Python data science libraries such as Streamlit that users can engage with.
   - In conjunction with creating visualizations, I would like to develop skills in "data storytelling" that will enable me to present my findings and inspire          productive change in my audience.
   - With regard to predictive modeling, I would also like to use neural networks and large language models in order to create fascinating algorithms and predict        trends.
   
-## Contact Information
+## Contact Information 𑁍 
 - **Email**: [ccloskey@nd.edu](mailto:ccloskey@nd.edu)
 - **Linked In**: [Catherine Closkey](https://www.linkedin.com/in/catherine-closkey-a1863b2ab)
 
