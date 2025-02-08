@@ -10,6 +10,7 @@ My name is Catherine Closkey. I am currently a student in my third year at the U
 
 ### Professional Highlights:
 - **Digital Forensic Investigator**, St. Joseph County Cyber Crimes Unit, Notre Dame, Indiana (2024 - Present)
+  
 ![Description of Image](https://news.nd.edu/assets/330693/500x/cyber_crimes_unit_mc_feature.jpg)
        
 ## Current Projects 
