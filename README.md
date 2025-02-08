@@ -27,7 +27,10 @@ My name is Catherine Closkey. I am currently a student in my third year at the U
    - **GrayKey Software**
 
 ## Goals 
-- By the end of this semester, one of my goals is to develop my technical skills with regard to making interactive visualizations through Python data science libraries such as Streamlit that users can engage with. In conjunction with creating these visualizations, I would like to develop skills in "data storytelling," that will enable me to present my findings and inspire productive change in my audience. With regard to predictive modeling, I would also like to use neural networks and large language models in order to create fascinating algorithms and predict trends. 
+- By the end of this semester, my goals are to:
+  - Develop my technical skills with regard to making interactive visualizations through Python data science libraries such as Streamlit that users can engage with.
+  - In conjunction with creating visualizations, I would like to develop skills in "data storytelling," that will enable me to present my findings and inspire          productive change in my audience.
+  - With regard to predictive modeling, I would also like to use neural networks and large language models in order to create fascinating algorithms and predict        trends.
   
 ## Contact Information 
 - **Email**: [ccloskey@nd.edu](mailto:ccloskey@nd.edu)
