@@ -6,45 +6,37 @@
 
 
 ### Introduction 🌐
-My name is Catherine Closkey. I am a student in my third year at the University of Notre Dame. I am currently studying Neuroscience and Behavior in the College of Science, where I will graduate with a Bachelor of Science in May 2026. I have a minor in Computing and Digital Technologies with a concentration on the Cybersafety and Security track. This year, I am expanding my interests into the Data Science field  as I have learned through my computing coursework that data science is fascinating. Through my combined interests in the biology of the brain and study of human behavior, I can apply these interests to the computing and data science world by analzying trends in health, society, and politics in order to predict trends, solve complex problems, and make impactful solutions. 
+My name is Catherine Closkey. I am a student in my third year at the University of Notre Dame. 
+
+**Academic Curriculum**: I am currently majoring in Neuroscience and Behavior in the College of Science, where I will graduate with a Bachelor of Science in May 2026. I have minors in Data Science and Computing and Digital Technologies with a concentration on the Cybersafety and Security track. 
 
 **Some of My Favorite Activities**: Outside of my academic curriculum, I love to ski, sail, surf, take long walks on the beach with my dog, and bake!
 
-### Education 🎓
+## Education 🎓
 - **University of Notre Dame**, Bachelor of Science, Neuroscience and Behavior (2026)
 
-### Professional Highlights 🌟
+## Professional Highlights 🌟
 - **Digital Forensic Investigator** - Notre Dame, Indiana (2024 - Present)
 ![Description of Image](https://news.nd.edu/assets/330693/500x/cyber_crimes_unit_mc_feature.jpg)
+       
+### Current Projects ⚙️
+- **Introduction to Data Science**
+    - [*Data Science Portfolio*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio)
 
-
-### Tech Toolbox 🛠️
-   - **Elements of Computing I** (Fall, 2023)
-       - Introduction to Computing
-       - Introduction to Coding Language: Python
-   - **Digital Forensic Analysis** (Fall, 2023)
-        - Magnet AXIOM Forensic Software
-        - GrayKey Software
-   - **Elements of Computing II** (Spring, 2024)
-        - Python Data Science Libraries: Pandas, Seaborn, Beautiful Soup, Plotly, Matplot lib
-   - **CyberCrime and the Law** (Fall, 2024)
-        - Applications of the law to computing crimes and other cybercrimes as well as implications for digital forensics 
+### Skills 🛠️
+   - Python: Pandas, Seaborn, Beautiful Soup, Plotly, Matplot lib (***basic level***)
+   - Magnet AXIOM Forensic Software - ***Magnet Certified Forensic Examiner (2023)***
+   - GrayKey Software
    - **Introduction to Data Science** (Spring, 2025)
         - Data science skills: Python libraries of Pandas, Seaborn, Plotly, Streamlit
         - Machine learning techniques: large language models, neural networks
         - Ethical practices
-   - **Special Projects in CyberCrime and CyberLaw** (Spring, 2025)
-        - Research on Generative AI (ChatGPT)
-          
-### Projects 🚀
-- **Introduction to Data Science**
-    - [*Data Science Portfolio*](https://github.com/ccloskey2/CLOSKEY-Data-Science-Portolio)
+
+### Goals 🚀 
+- This year, I am expanding my interests into the Data Science field  as I have learned through my computing coursework that data science is fascinating. Through my combined interests in the biology of the brain and study of human behavior, I want to apply these interests to the computing and data science world by analzying trends in health, society, and politics in order to predict trends, solve complex problems, and make impactful solutions. Specifically, I would like to develop my technical skills with regard to making interactive visualizations through Python data science libraries that users can engage with. I would also like to use neural networks and large language models in order to create fascinating algorithms and predict trends. 
   
-### Certifications 📜
-- **Digital Forensics:** Magnet Certified Forensic Examiner (2023)
-  
-### Contact Information:  
-- **Email**: ccloskey@nd.edu
+### Contact Links:  
+- [**Email**:](mailto:ccloskey@nd.edu)
 - **Linked In**: [Catherine Closkey](https://www.linkedin.com/in/catherine-closkey-a1863b2ab)
 
 
