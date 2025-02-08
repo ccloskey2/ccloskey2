@@ -37,7 +37,7 @@ My name is Catherine Closkey. I am a student in my third year at the University 
 - This year, I am expanding my interests into the Data Science field  as I have learned through my computing coursework that data science is fascinating. Through my combined interests in the biology of the brain and study of human behavior, I want to apply these interests to the computing and data science world by analzying trends in health, society, and politics in order to predict trends, solve complex problems, and make impactful solutions. Specifically, I would like to develop my technical skills with regard to making interactive visualizations through Python data science libraries such as Streamlit that users can engage with. I would also like to use neural networks and large language models in order to create fascinating algorithms and predict trends. 
   
 ## Contact Links:  
-- [**Email**:](mailto:ccloskey@nd.edu)
+- **Email**:[(mailto:ccloskey@nd.edu)]
 - **Linked In**: [Catherine Closkey](https://www.linkedin.com/in/catherine-closkey-a1863b2ab)
 
 
