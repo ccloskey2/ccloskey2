@@ -1,4 +1,4 @@
-# Hello, I'm Catherine!
+# 🌺 Hello, I'm Catherine!
 
 ## About Me 
 My name is Catherine Closkey. I am currently a student in my third year at the University of Notre Dame. 
