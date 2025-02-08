@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Catherine!
 
-## Student Studying Neuroscience and Behavior, Computing and Digital Technologies, and Data Science
-
-📍 **Notre Dame, IN**  
-
-
 ## About Me
 My name is Catherine Closkey. I am currently a student in my third year at the University of Notre Dame. 
 
