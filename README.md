@@ -23,7 +23,7 @@ My name is Catherine Closkey. I am currently a student in my third year at the U
 
 ## 🛠️ Skills
    - **Python**: Pandas, Seaborn, Beautiful Soup, Plotly, Matplot lib (*basic level*)
-   - **Magnet AXIOM Forensic Software**: Magnet Certified Forensic Examiner *(2023)*
+   - **Magnet AXIOM Forensic Software**: Magnet Certified Forensic Examiner (2023)
    - **GrayKey Software**
 
 ## 🏆 Goals
